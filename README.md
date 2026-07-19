@@ -1,4 +1,4 @@
-# Lua Calculus Toolkit for Calculators
+# Lua Calculus limits for Calculators
 
 Welcome! This repository features custom Lua scripts designed for graphic calculators to streamline and automate multi-step mathematical procedures.
 
@@ -11,7 +11,7 @@ This toolkit was originally developed to assist with Calculus 2 exams by breakin
 
 ## 🛠️ Features
 
-The toolkit currently implements several basic mathematical functions designed to output step-by-step procedures rather than just the final answer. It is optimized to work with **CAS (Computer Algebra System)** engines to process variables analytically:
+The script currently implements several basic mathematical functions designed to output step-by-step procedures rather than just the final answer. It is optimized to work with **CAS (Computer Algebra System)** engines to process variables analytically:
 
 | Function | Description | Status |
 | :--- | :--- | :--- |
